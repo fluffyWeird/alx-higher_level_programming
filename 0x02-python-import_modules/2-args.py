@@ -5,4 +5,3 @@ print('{} {}:'.format(argc, sys.argv[argc]))
 for i in range(argc):
     j = i + 1
     print('{}: {}'.format(j, sys.argv[j]))
-
