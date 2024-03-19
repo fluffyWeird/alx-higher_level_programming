@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 def element_at(my_list, idx):
-    count = 0
-    if idx < 0:
-        print("None")
-    for num in my_list:
-        if idx > num:
-            count = count + 1
-    if count > len(my_list):
-        print("None")
+    if idx > len(my_list) - 1 or idx < 0:
+        return None
+    return my_list[idx]
