@@ -1,11 +1,9 @@
 ## Python - Data Structures: Lists, Tuples
 
 ### Learning Objectives
-
 At the end of the project, you are expected to be able to explain to anyone, without the help of Google:
 
 #### General
-
  - Why Python programming is awesome
  - What are lists and how to use them
  - What are the differences and similarities between strings and lists
@@ -18,3 +16,4 @@ At the end of the project, you are expected to be able to explain to anyone, wit
  - What is tuple packing
  - What is sequence unpacking
  - What is the del statement and how to use it
+I think this was cool
